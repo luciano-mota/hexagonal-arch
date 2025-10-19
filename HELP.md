@@ -11,6 +11,7 @@ For further reference, please consider the following sections:
 * [Validation](https://docs.spring.io/spring-boot/3.5.6/reference/io/validation.html)
 * [Spring for Apache Kafka](https://docs.spring.io/spring-boot/3.5.6/reference/messaging/kafka.html)
 * [Spring Data MongoDB](https://docs.spring.io/spring-boot/3.5.6/reference/data/nosql.html#data.nosql.mongodb)
+* [OpenFeign](https://docs.spring.io/spring-cloud-openfeign/reference/)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
@@ -21,6 +22,11 @@ The following guides illustrate how to use some features concretely:
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 * [Validation](https://spring.io/guides/gs/validating-form-input/)
 * [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
+
+### Additional Links
+These additional references should also help you:
+
+* [Declarative REST calls with Spring Cloud OpenFeign sample](https://github.com/spring-cloud-samples/feign-eureka)
 
 ### Maven Parent overrides
 
