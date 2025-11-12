@@ -1,0 +1,6 @@
+package io.github.lcmdev.hexagonal.application.ports.out;
+
+public interface SendCpfForValidationOutputPort {
+
+  void send(String cpf);
+}
