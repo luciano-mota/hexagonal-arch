@@ -1,7 +1,7 @@
 package io.github.lcmdev.hexagonal.adapters.out.repository.entity;
 
-import jakarta.persistence.Id;
 import lombok.Data;
+import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
